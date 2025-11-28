@@ -1,0 +1,13 @@
+[
+  {
+    "id": "ORD-1764336518",
+    "timestamp": "2025-11-28T18:58:38.335008",
+    "items": {
+      "almonds": 1,
+      "tomato": 1,
+      "red_onion": 2
+    },
+    "total": 15.58,
+    "status": "received"
+  }
+]
