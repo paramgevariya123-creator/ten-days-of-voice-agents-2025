@@ -1,0 +1,30 @@
+[
+  {
+    "id": "order-f0f49e7b",
+    "items": [
+      {
+        "product_id": "tee-001",
+        "name": "Batman Tee (Cotton)",
+        "unit_price": 799,
+        "quantity": 2,
+        "line_total": 1598,
+        "attrs": {
+          "size": "medium"
+        }
+      },
+      {
+        "product_id": "hoodie-001",
+        "name": "Cozy Hoodie",
+        "unit_price": 1499,
+        "quantity": 1,
+        "line_total": 1499,
+        "attrs": {
+          "size": "large"
+        }
+      }
+    ],
+    "total": 3097,
+    "currency": "INR",
+    "created_at": "2025-11-30T06:26:26.395153Z"
+  }
+]
